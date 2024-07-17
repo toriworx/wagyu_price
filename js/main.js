@@ -1,3 +1,4 @@
+//スムーススクロールの実装
 $(function() {
   $('#page-top a').click(function(e) {
     e.preventDefault();

@@ -39,7 +39,7 @@ p {
   }
 }
 
-
+/*背景色を青に変更*/
 .submit-color {
   background-color: #17a2b8;
   color: white;
@@ -62,6 +62,7 @@ footer {
   text-align: center;
 }
 
+/*スムーススクロールの実装*/
 @media (max-width: 576px){
   #page-top {
     width: 40px;
